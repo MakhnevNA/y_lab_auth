@@ -1,7 +1,7 @@
 {
     "name": "auth-y-lab",
     "private": true,
-    "homepage": "https://makhnevna.github.io/MakhnevNA.githib.io/",
+    "homepage": "https://makhnevna.github.io/y_lab_auth/",
     "version": "0.0.0",
     "type": "module",
     "scripts": {
